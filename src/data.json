@@ -1,0 +1,182 @@
+{
+    "kurti1":{
+        "name": "kurti1",
+        "price": "RS 800",
+        "img": "/Images/kurti1.jpg"
+    },
+    "kurti2":{
+        "name": "kurti2",
+        "price": "RS 850",
+        "img": "/Images/kurti2.jpg"
+    },
+    "kurti3":{
+        "name": "kurti3",
+        "price": "RS 850",
+        "img": "/Images/kurti3.jpg"
+    },
+    "kurti4":{
+        "name": "kurti4",
+        "price": "RS 800",
+        "img": "/Images/kurti4.jpg"
+    },
+    "kurti5":{
+        "name": "kurti5",
+        "price": "RS 800",
+        "img": "/Images/kurti5.jpg"
+    },
+    "kurti6":{
+        "name": "kurti6",
+        "price": "RS 800",
+        "img": "/Images/kurti6.jpg"
+    },
+    "kurti7":{
+        "name": "kurti7",
+        "price": "RS 800",
+        "img": "/Images/kurti7.jpg"
+    },
+    "kurti8":{
+        "name": "kurti8",
+        "price": "RS 800",
+        "img": "/Images/kurti8.jpg"
+    },
+    "kurti9":{
+        "name": "kurti9",
+        "price": "RS 800",
+        "img": "/Images/kurti9.jpg"
+    },
+    "kurti10":{
+        "name": "kurti10",
+        "price": "RS 800",
+        "img": "/Images/kurti10.jpg"
+    },
+    "kurti11":{
+        "name": "kurti11",
+        "price": "RS 800",
+        "img": "/Images/kurti11.jpg"
+    },
+    "kurti12":{
+        "name": "kurti12",
+        "price": "RS 850",
+        "img": "/Images/kurti12.jpg"
+    },
+    "kurti13":{
+        "name": "kurti13",
+        "price": "RS 850",
+        "img": "/Images/kurti13.jpg"
+    },
+    "kurti14":{
+        "name": "kurti14",
+        "price": "RS 800",
+        "img": "/Images/kurti14.jpg"
+    },
+    "kurti15":{
+        "name": "kurti15",
+        "price": "RS 800",
+        "img": "/Images/kurti15.jpg"
+    },
+    "kurti23":{
+        "name": "kurti23",
+        "price": "RS 850",
+        "img": "/Images/kurti23.jpg"
+    },
+    "kurti24":{
+        "name": "kurti24",
+        "price": "RS 800",
+        "img": "/Images/kurti24.jpg"
+    },
+    "kurti25":{
+        "name": "kurti25",
+        "price": "RS 850",
+        "img": "/Images/kurti25.jpg"
+    },
+    "kurti26":{
+        "name": "kurti26",
+        "price": "RS 850",
+        "img": "/Images/kurti26.jpg"
+    },
+    "kurti27":{
+        "name": "kurti27",
+        "price": "RS 800",
+        "img": "/Images/kurti27.jpg"
+    },
+    "kurti28":{
+        "name": "kurti28",
+        "price": "RS 800",
+        "img": "/Images/kurti28.jpg"
+    },
+    "kurti29":{
+        "name": "kurti29",
+        "price": "RS 800",
+        "img": "/Images/kurti29.jpg"
+    },
+    "kurti30":{
+        "name": "kurti30",
+        "price": "RS 800",
+        "img": "/Images/kurti30.jpg"
+    },
+    "kurti31":{
+        "name": "kurti31",
+        "price": "RS 850",
+        "img": "/Images/kurti31.jpg"
+    },
+    "kurti32":{
+        "name": "kurti32",
+        "price": "RS 850",
+        "img": "/Images/kurti32.jpg"
+    },
+    "kurti33":{
+        "name": "kurti33",
+        "price": "RS 850",
+        "img": "/Images/kurti33.jpg"
+    },
+    "kurti34":{
+        "name": "kurti34",
+        "price": "RS 850",
+        "img": "/Images/kurti34.jpg"
+    },
+    "kurti35":{
+        "name": "kurti35",
+        "price": "RS 850",
+        "img": "/Images/kurti35.jpg"
+    },
+    "kurti36":{
+        "name": "kurti36",
+        "price": "RS 850",
+        "img": "/Images/kurti36.jpg"
+    },
+    "kurti38":{
+        "name": "kurti38",
+        "price": "RS 850",
+        "img": "/Images/kurti38.jpg"
+    },
+    "kurti39":{
+        "name": "kurti39",
+        "price": "RS 850",
+        "img": "/Images/kurti39.jpg"
+    },
+    "kurti40":{
+        "name": "kurti40",
+        "price": "RS 850",
+        "img": "/Images/kurti40.jpg"
+    },
+    "kurti41":{
+        "name": "kurti41",
+        "price": "RS 850",
+        "img": "/Images/kurti41.jpg"
+    },
+    "kurti42":{
+        "name": "kurti42",
+        "price": "RS 850",
+        "img": "/Images/kurti42.jpg"
+    },
+    "kurti43":{
+        "name": "kurti43",
+        "price": "RS 800",
+        "img": "/Images/kurti43.jpg"
+    },
+    "kurti44":{
+        "name": "kurti44",
+        "price": "RS 850",
+        "img": "/Images/kurti44.jpg"
+    }
+}
