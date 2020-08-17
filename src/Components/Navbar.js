@@ -11,10 +11,10 @@ export const AppNavbar = () => {
         <Navbar.Brand>
           <img
             alt=""
-            src="./../Images/logo_.jpeg"
+            src="./Images/logo_.jpeg"
             width="30"
             height="30"
-            className="d-inline-block align-top"
+            className="d-inline-block align-top nav-image"
           />
           QMR Collections
         </Navbar.Brand>
