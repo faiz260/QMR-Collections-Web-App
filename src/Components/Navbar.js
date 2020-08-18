@@ -6,7 +6,7 @@ import './../App.css';
 export const AppNavbar = () => {
   return (
     <div>
-      <Navbar bg="light" expand="lg">
+      <Navbar fixed="top" bg="light" expand="lg">
         <Link to="/">
         <Navbar.Brand>
           <img
