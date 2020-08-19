@@ -1,6 +1,6 @@
 import React from 'react';
 import useWebAnimations, {
-    flipInX, backInDown,
+    backInDown,
   } from "@wellyshen/use-web-animations";
 
 export const Title = () => {
