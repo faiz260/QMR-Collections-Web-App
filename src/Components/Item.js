@@ -8,7 +8,7 @@ export const Item = () => {
   const kurtie = Kurties[slug];
   const { img, price, des } = kurtie;
 
-  console.log(kurtie)
+  console.log(kurtie);
 
   return (
     <div className="item-div">

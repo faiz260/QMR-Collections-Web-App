@@ -1,4 +1,94 @@
 {
+    "kurti45":{
+        "name": "kurti45",
+        "price": "RS 850",
+        "img": "/Images/kurti45.jpg",
+        "des": " New Designer Kurti, Fabric: Paper Cotton, Measurements: Chest 20.5 / 21, Lenght 35/36"
+    },
+    "kurti46":{
+        "name": "kurti46",
+        "price": "RS 850",
+        "img": "/Images/kurti46.jpg",
+        "des": " New Designer Kurti, Fabric: Paper Cotton, Measurements: Chest 20.5 / 21, Lenght 35/36"
+    },
+    "kurti47":{
+        "name": "kurti47",
+        "price": "RS 850",
+        "img": "/Images/kurti47.jpg",
+        "des": " New Designer Kurti, Fabric: Paper Cotton, Measurements: Chest 20.5 / 21, Lenght 35/36"
+    },
+    "kurti48":{
+        "name": "kurti48",
+        "price": "RS 850",
+        "img": "/Images/kurti48.jpg",
+        "des": " New Designer Kurti, Fabric: Maysoori Linen, Measurements: Chest 20.5 / 21, Lenght 35/36"
+    },
+    "kurti49":{
+        "name": "kurti49",
+        "price": "RS 850",
+        "img": "/Images/kurti49.jpg",
+        "des": " New Designer Kurti, Fabric: Maysoori Linen, Measurements: Chest 20.5 / 21, Lenght 35/36"
+    },
+    "kurti50":{
+        "name": "kurti50",
+        "price": "RS 850",
+        "img": "/Images/kurti50.jpg",
+        "des": " New Designer Kurti, Fabric: Maysoori Linen, Measurements: Chest 20.5 / 21, Lenght 35/36"
+    },
+    "kurti51":{
+        "name": "kurti51",
+        "price": "RS 850",
+        "img": "/Images/kurti51.jpg",
+        "des": " New Designer Kurti, Fabric: Maysoori Linen, Measurements: Chest 20.5 / 21, Lenght 35/36"
+    },
+    "kurti52":{
+        "name": "kurti52",
+        "price": "RS 850",
+        "img": "/Images/kurti52.jpg",
+        "des": " New Designer Kurti, Fabric: Maysoori Linen, Measurements: Chest 20.5 / 21, Lenght 35/36"
+    },
+    "kurti53":{
+        "name": "kurti53",
+        "price": "RS 850",
+        "img": "/Images/kurti53.jpg",
+        "des": " New Designer Kurti, Fabric: Maysoori Linen, Measurements: Chest 20.5 / 21, Lenght 35/36"
+    },
+    "kurti54":{
+        "name": "kurti54",
+        "price": "RS 850",
+        "img": "/Images/kurti54.jpg",
+        "des": " New Designer Kurti, Fabric: Maysoori Linen, Measurements: Chest 20.5 / 21, Lenght 35/36"
+    },
+    "kurti55":{
+        "name": "kurti55",
+        "price": "RS 850",
+        "img": "/Images/kurti55.jpg",
+        "des": " New Designer Kurti, Fabric: Paper Cotton, Measurements: Chest 20.5 / 21, Lenght 35/36"
+    },
+    "kurti56":{
+        "name": "kurti56",
+        "price": "RS 850",
+        "img": "/Images/kurti56.jpg",
+        "des": " New Designer Kurti, Fabric: Paper Cotton, Measurements: Chest 20.5 / 21, Lenght 35/36"
+    },
+    "kurti41":{
+        "name": "kurti41",
+        "price": "RS 850",
+        "img": "/Images/kurti41.jpg",
+        "des": " Latest Embroided Kurti, Fabric: ARABIAN linen, Measurements: Chest 20.5 / 21, Lenght 35/36"
+    },
+    "kurti42":{
+        "name": "kurti42",
+        "price": "RS 850",
+        "img": "/Images/kurti42.jpg",
+        "des": " Latest Embroided Kurti, Fabric: ARABIAN linen, Measurements: Chest 20.5 / 21, Lenght 35/36"
+    },
+    "kurti43":{
+        "name": "kurti43",
+        "price": "RS 800",
+        "img": "/Images/kurti43.jpg",
+        "des": " Black Designer Kurti, Fabric: ARABIAN linen, Measurements: Chest 20.5 / 21, Lenght 35/36"
+    },
     "kurti1":{
         "name": "kurti1",
         "price": "RS 800",
@@ -190,24 +280,6 @@
         "price": "RS 850",
         "img": "/Images/kurti40.jpg",
         "des": "Latest Embroided Kurti, Fabric: ARABIAN linen, Measurements: Chest 20.5 / 21, Lenght 35/36"
-    },
-    "kurti41":{
-        "name": "kurti41",
-        "price": "RS 850",
-        "img": "/Images/kurti41.jpg",
-        "des": " Latest Embroided Kurti, Fabric: ARABIAN linen, Measurements: Chest 20.5 / 21, Lenght 35/36"
-    },
-    "kurti42":{
-        "name": "kurti42",
-        "price": "RS 850",
-        "img": "/Images/kurti42.jpg",
-        "des": " Latest Embroided Kurti, Fabric: ARABIAN linen, Measurements: Chest 20.5 / 21, Lenght 35/36"
-    },
-    "kurti43":{
-        "name": "kurti43",
-        "price": "RS 800",
-        "img": "/Images/kurti43.jpg",
-        "des": " Black Designer Kurti, Fabric: ARABIAN linen, Measurements: Chest 20.5 / 21, Lenght 35/36"
     },
     "kurti44":{
         "name": "kurti44",
