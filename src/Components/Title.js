@@ -15,7 +15,7 @@ export const Title = () => {
     
     return (
         <div>
-            <h1 ref={ref} style={{ fontSize: "46px" }}>Welcome To QMR Collections</h1>
+            <h1 ref={ref} style={{ fontSize: "40px" }}>Welcome To QMR Collections</h1>
         </div>
     )
 }

@@ -36,7 +36,7 @@ export const Home = () => {
           <Col xs={12}>
             <h1
               style={{
-                fontSize: "46px",
+                fontSize: "40px",
                 marginTop: "100px",
                 textDecoration: "underline",
               }}

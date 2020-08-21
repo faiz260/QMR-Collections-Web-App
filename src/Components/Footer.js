@@ -16,7 +16,7 @@ export const Footer = () => {
           height: "500px",
           backgroundColor: "rgb(0, 0, 100)",
           paddingTop: "50px",
-          //   paddingBottom: "100px",
+          paddingLeft: "50px"
         }}
       >
         <Row>
