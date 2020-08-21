@@ -4,6 +4,7 @@ import {Title} from './Title';
 import useWebAnimations, {
   flipInX,
 } from "@wellyshen/use-web-animations";
+import {Footer } from './Footer';
 
 export const Home = () => {
   const { ref} = useWebAnimations({
@@ -174,6 +175,7 @@ export const Home = () => {
           </Col>
         </Row>
       </Container>
+      <Footer/>
     </div>
   );
 };

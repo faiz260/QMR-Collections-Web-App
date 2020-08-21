@@ -6,9 +6,9 @@ import { useParams } from "react-router-dom";
 export const Item = () => {
   const { slug } = useParams();
   const kurtie = Kurties[slug];
-  const { img, price, des } = kurtie;
+  const { name, img, price, des } = kurtie;
 
-  console.log(kurtie);
+  // console.log(kurtie);
 
   return (
     <div className="item-div">
@@ -17,6 +17,7 @@ export const Item = () => {
       </Card>
       <Card className="d-inline-block item-des">
         <Card.Body>
+          <h5>Item Number: {name} </h5>
           <Card.Text> {des} </Card.Text>
           <h4>Price: {price}</h4>
           <Button
