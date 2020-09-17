@@ -10,8 +10,8 @@ export const ProductIndex = () => {
         <Card.Body>
           <Card.Title>Kurties</Card.Title>
           <Card.Text>
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+            Find out a huge range of latest, in-fashion kurties.Designer,
+                  Embroided and Simple Kurties
           </Card.Text>
           <Link to="/products/kurties">
             <Button variant="primary">Find Kurties</Button>
@@ -24,8 +24,8 @@ export const ProductIndex = () => {
         <Card.Body>
           <Card.Title>Pants</Card.Title>
           <Card.Text>
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+          Find out a huge range of latest, in-fashion pants.Stretchable,
+                  Comfortable and flexible Pants
           </Card.Text>
           <Link to="/products/pants">
             <Button variant="primary">Find Pants</Button>
@@ -38,8 +38,7 @@ export const ProductIndex = () => {
         <Card.Body>
           <Card.Title>Tights</Card.Title>
           <Card.Text>
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+         Find out Good quality Tights available in different colors and fabric
           </Card.Text>
           <Link to="/products/tights">
             <Button variant="primary">Find Tights</Button>
